@@ -22,9 +22,9 @@ This repository showcases interactive Power BI dashboards developed for real-wor
 - **Description**: Tracks sales KPIs, regional performance, and top-selling products.
 - **Link**: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc0NGM1ZmEtYTQ1Ni00Nzk1LTg5Y2UtYTA3NWU1MTc5ODI3IiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9)
 
-### 2. **Customer Behavior Analysis**
+### 2. **Customer Churn Analysis**
 - **Description**: Analyzes customer demographics, purchase patterns, and retention rates.
-- **Link**: [View Dashboard](https://app.powerbi.com/view?r=your-link)
+- **Link**: [View Dashboard](https://app.powerbi.com/groups/me/reports/10fa975f-532e-4fc6-b21f-8508f970ab19/ReportSection?experience=power-bi)
 
 ### 3. **Call Center Efficiency Dashboard**
 - **Description**: Monitors call center KPIs, agent performance, and average response times.
