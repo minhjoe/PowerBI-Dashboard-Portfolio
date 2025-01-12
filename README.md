@@ -24,7 +24,7 @@ This repository showcases interactive Power BI dashboards developed for real-wor
 
 ### 2. **Customer Churn Analysis**
 - **Description**: Analyzes customer demographics, purchase patterns, and retention rates.
-- **Link**: [View Dashboard](https://app.powerbi.com/groups/me/reports/10fa975f-532e-4fc6-b21f-8508f970ab19?ctid=79ad8541-2f53-45e9-93dd-e2ed19e39bb4&pbi_source=linkShare)
+- **Link**: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=10fa975f-532e-4fc6-b21f-8508f970ab19&autoAuth=true&ctid=79ad8541-2f53-45e9-93dd-e2ed19e39bb4)
 
 ### 3. **Call Center Efficiency Dashboard**
 - **Description**: Monitors call center KPIs, agent performance, and average response times.
